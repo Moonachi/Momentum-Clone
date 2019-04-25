@@ -15,3 +15,7 @@
 - [ ] 배경 이미지 설정  
 - [ ] Geolocation API  
 - [ ] CSS 작업  
+
+### 개념
+- localStorage에는 string으로 저장 (JSON.stringify())  
+- 따라서 다시 불러오고 Object로 변환해주어야 한다. (parse.JSON())
