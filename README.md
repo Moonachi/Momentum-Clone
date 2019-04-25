@@ -1,6 +1,5 @@
 # Momentum-Clone
 
----
 #### 설명
 구글 확장프로그램 `Momentum` Clone 코딩
 
@@ -10,9 +9,9 @@
 -  JavaScript
 
 #### 작업 목록
-[x] 시계 구현
-[ ] 이름 저장
-[ ] ToDoList 목록
-[ ] 배경 이미지 설정
-[ ] Geolocation API
-[ ] CSS 작업
+[-] 시계 구현  
+[-] 이름 저장  
+[ ] ToDoList 목록  
+[ ] 배경 이미지 설정  
+[ ] Geolocation API  
+[ ] CSS 작업  
