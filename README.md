@@ -13,7 +13,7 @@
 - [x] 이름 저장  
 - [x] ToDoList 목록
 - [x] ToDoList 삭제  
-- [ ] 배경 이미지 설정  
+- [x] 배경 이미지 설정  
 - [ ] Geolocation API  
 - [ ] CSS 작업  
 
