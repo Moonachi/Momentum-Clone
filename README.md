@@ -16,6 +16,7 @@
 - [x] 배경 이미지 설정  
 - [x] Geolocation API  
 - [x] CSS 작업  
+- [x] 명언 추가
 
 ### 개념
 - localStorage에는 string으로 저장 (JSON.stringify())  
