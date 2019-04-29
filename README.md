@@ -26,3 +26,10 @@
 
 ### 주의사항
  - weather.js에서 API_KEY에 자신의 API_KEY를 넣어야합니다.
+ - https://openweathermap.org/api 해당 사이트 API_KEY 발급 받으시면 됩니다.
+
+### 결과물
+- API_KEY를 넣은 경우 아래와 같이 결과가 나타납니다.
+
+<img src="./images/완성 1.PNG">
+<img src="./images/완성 2.PNG">
