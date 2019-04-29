@@ -31,5 +31,5 @@
 ### 결과물
 - API_KEY를 넣은 경우 아래와 같이 결과가 나타납니다.
 
-<img src="./images/완성 1.PNG">
-<img src="./images/완성 2.PNG">
+<img src="./result/완성 1.PNG">
+<img src="./result/완성 2.PNG">
